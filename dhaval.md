@@ -1,4 +1,4 @@
-## What is Git & Github:
+﻿## What is Git & Github:
 
 Git can be very difficult to understand if you are using it for the first time. I myself had faced many problems when using it for the first time. But, with regularly using **Git and Github** now it seems a whole lot easier for me to work with. This is a simple guide for anyone who wants to learn git as efficiently and as fast as possible. I have tried my best to make this guide very easy to follow. So, without wasting any more time let’s get started. Shall we??
 
@@ -169,4 +169,4 @@ You may also think that what **master** is?? Don’t worry, we will cover all th
 > - What is a PR??
 > - How to solve merge conflicts??
 
-So, that’s all from my side friends!! I hope that you like it and have learnt something from this article. If you have any doubts then feel free to ask me in the Zero To Mastery Discord Community. I would love to help you out. Alright until next time, bye :)
+So, that’s all from my side friends!! I hope that you like it and have learnt something from this article. If you have any doubts then feel free to ask me in the Zero To Mastery Discord Community. Alright until next time, bye :)
